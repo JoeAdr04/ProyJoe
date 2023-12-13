@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProyJoe/static/css/main.e19102e3.css",
+    "main.js": "/ProyJoe/static/js/main.6d710ef0.js",
+    "static/media/Logo.png": "/ProyJoe/static/media/Logo.76aa9c42af08ac200ec1.png",
+    "static/media/logo.svg": "/ProyJoe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProyJoe/index.html",
+    "main.e19102e3.css.map": "/ProyJoe/static/css/main.e19102e3.css.map",
+    "main.6d710ef0.js.map": "/ProyJoe/static/js/main.6d710ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19102e3.css",
+    "static/js/main.6d710ef0.js"
+  ]
+}
